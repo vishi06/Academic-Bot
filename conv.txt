@@ -1,0 +1,23 @@
+Hi
+Hello,How are you?
+i am good|fine|ok
+great,how may i help you on this website?
+details
+details of what?
+hod|faculty
+Which Department?
+Cse|cse|CSE
+Dr.Vishal Bharti,Email-Hod.cse@dit.edu.in,Contact-983241563
+
+Which Department?
+electronics|electrical
+Dr.Faculty
+Sap|sap|SAP
+<a href='http://webdispatcher.dituniversity.edu.in:8169/irj/portal'></a>
+assignment
+yet to be deployed
+syllabus
+which subject?
+software eng|sw|software
+yet to be implemented
+
